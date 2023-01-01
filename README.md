@@ -7,7 +7,7 @@ I have only one wish for this algorithm and the changes or improvements or progr
 
 My English isn't so good, please be kind to me and my mistakes :-).
 
-
+---
 
 **ČESKY:**
 TrýSort (stromové řazení, z angl. Tree Sort) je algoritmus pro řazení, odstranění duplikátů a nalezení unikátů – vše v jednom. Lze rozšířit i pro rychlé vyhledávání stejně jako pro rychlé vyhledávání nezávislé na velikosti písmen či diakritice. 
