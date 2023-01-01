@@ -3,7 +3,7 @@ There isn't any comparison of strings nor swapping ones. The algorithm detects u
 
 **See the documentation files - PDF or ODT.** Two examples are in LibreOffice Basic. The example in Python is with comparison of algorithm Timsort. 
 
-I have only one wish for this algorithm and the changes or improvements or programming etc. of it → absolutely no patents or licencions with any restriction! And if some license is needful, I think the License CC0 1.0 Universal (CC0 1.0) Public Domain Dedication https://creativecommons.org/publicdomain/zero/1.0 is sufficient :-).
+I have only one wish for this algorithm and the changes or improvements or programming etc. of it → absolutely no patents or licencions with any restrictions! And if some license is needful, I think the License CC0 1.0 Universal (CC0 1.0) Public Domain Dedication https://creativecommons.org/publicdomain/zero/1.0 is sufficient :-).
 
 My English isn't so good, please be kind to me and my mistakes :-).
 
@@ -15,6 +15,6 @@ V algoritmu není žádné porovnávání řetězců ani jejich prohazování. V
 
 **Mrkni na dokumentační soubory - PDF nebo ODT.** Dva příklady jsou zatím v LibreOffice Basicu. Ukázka v Pythonu Pythonu je s porovnáním algoritmu Timsort. 
 
-Mám pouze jediné přání pro tento algoritmus a jeho změny, vylepšování, programování atd. -> absolutně žádné patenty či licence s jakýmikoliv rstrikcemi! A je-li potřeba nějaká licence, myslím že Licence CC0 1.0 Univerzální (CC0 1.0) - Potvrzení o statusu volného díla https://creativecommons.org/publicdomain/zero/1.0/deed.cs je postačující :-).
+Mám pouze jediné přání pro tento algoritmus a jeho změny, vylepšování, programování atd. -> absolutně žádné patenty či licence s jakýmikoliv restrikcemi! A je-li potřeba nějaká licence, myslím že Licence CC0 1.0 Univerzální (CC0 1.0) - Potvrzení o statusu volného díla https://creativecommons.org/publicdomain/zero/1.0/deed.cs je postačující :-).
 
 A prosím o laskavost ke mně i mým chybám :-).
